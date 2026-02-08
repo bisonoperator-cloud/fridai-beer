@@ -6,8 +6,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-12">
             <h1 className="text-6xl md:text-8xl font-bold mb-6 tracking-tight">
-              <span className="text-amber-800">frid</span>
-              <span className="text-slate-700">AI</span>
+              <span className="text-slate-700">fridAI</span>
               <span className="text-amber-900">.beer</span>
             </h1>
             <div className="text-xl md:text-2xl text-neutral-600 font-light">
